@@ -1,6 +1,6 @@
 ﻿namespace CleanArch.Api;
 
-public class Class1
+public class BaseController
 {
 
 }
