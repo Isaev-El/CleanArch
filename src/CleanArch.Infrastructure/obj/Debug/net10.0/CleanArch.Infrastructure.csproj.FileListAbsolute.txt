@@ -1,0 +1,17 @@
+C:\Users\Elkhan\Desktop\Projects\DotNet\CoolApplication\src\CleanArch.Infrastructure\bin\Debug\net10.0\CleanArch.Infrastructure.deps.json
+C:\Users\Elkhan\Desktop\Projects\DotNet\CoolApplication\src\CleanArch.Infrastructure\bin\Debug\net10.0\CleanArch.Infrastructure.dll
+C:\Users\Elkhan\Desktop\Projects\DotNet\CoolApplication\src\CleanArch.Infrastructure\bin\Debug\net10.0\CleanArch.Infrastructure.pdb
+C:\Users\Elkhan\Desktop\Projects\DotNet\CoolApplication\src\CleanArch.Infrastructure\bin\Debug\net10.0\CleanArch.Application.dll
+C:\Users\Elkhan\Desktop\Projects\DotNet\CoolApplication\src\CleanArch.Infrastructure\bin\Debug\net10.0\CleanArch.Domain.dll
+C:\Users\Elkhan\Desktop\Projects\DotNet\CoolApplication\src\CleanArch.Infrastructure\bin\Debug\net10.0\CleanArch.Application.pdb
+C:\Users\Elkhan\Desktop\Projects\DotNet\CoolApplication\src\CleanArch.Infrastructure\bin\Debug\net10.0\CleanArch.Domain.pdb
+C:\Users\Elkhan\Desktop\Projects\DotNet\CoolApplication\src\CleanArch.Infrastructure\obj\Debug\net10.0\CleanArch.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Elkhan\Desktop\Projects\DotNet\CoolApplication\src\CleanArch.Infrastructure\obj\Debug\net10.0\CleanArch.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elkhan\Desktop\Projects\DotNet\CoolApplication\src\CleanArch.Infrastructure\obj\Debug\net10.0\CleanArch.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Elkhan\Desktop\Projects\DotNet\CoolApplication\src\CleanArch.Infrastructure\obj\Debug\net10.0\CleanArch.Infrastructure.AssemblyInfo.cs
+C:\Users\Elkhan\Desktop\Projects\DotNet\CoolApplication\src\CleanArch.Infrastructure\obj\Debug\net10.0\CleanArch.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Elkhan\Desktop\Projects\DotNet\CoolApplication\src\CleanArch.Infrastructure\obj\Debug\net10.0\CleanArc.9B8778E9.Up2Date
+C:\Users\Elkhan\Desktop\Projects\DotNet\CoolApplication\src\CleanArch.Infrastructure\obj\Debug\net10.0\CleanArch.Infrastructure.dll
+C:\Users\Elkhan\Desktop\Projects\DotNet\CoolApplication\src\CleanArch.Infrastructure\obj\Debug\net10.0\refint\CleanArch.Infrastructure.dll
+C:\Users\Elkhan\Desktop\Projects\DotNet\CoolApplication\src\CleanArch.Infrastructure\obj\Debug\net10.0\CleanArch.Infrastructure.pdb
+C:\Users\Elkhan\Desktop\Projects\DotNet\CoolApplication\src\CleanArch.Infrastructure\obj\Debug\net10.0\ref\CleanArch.Infrastructure.dll
